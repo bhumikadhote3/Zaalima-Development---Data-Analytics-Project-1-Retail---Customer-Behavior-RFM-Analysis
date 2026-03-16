@@ -1,0 +1,2 @@
+# Zaalima-Development---Data-Analytics-Project-1-Retail---Customer-Behavior-RFM-Analysis
+Retail Customer Behavior &amp; RFM Analysis project using SQL Server, Python, and Power BI. It cleans retail transaction data, builds a star schema warehouse, performs RFM customer segmentation, and generates insights on high-value and churn-risk customers through an automated analytics pipeline and dashboard.
