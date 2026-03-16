@@ -1,0 +1,1 @@
+python "C:\Users\my\Desktop\Zaalima 2month internship\p1\rfm_automation.py"

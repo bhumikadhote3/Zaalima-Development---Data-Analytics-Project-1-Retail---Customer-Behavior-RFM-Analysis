@@ -1,0 +1,31 @@
+Project Title: Retail – Customer Behavior & RFM Analysis
+Project Objective:
+The objective of this project is to analyze retail customer purchasing behavior and identify valuable customer segments using RFM (Recency, Frequency, Monetary) analysis. The system helps businesses understand customer engagement, detect churn risks, and improve marketing strategies.
+Project Description:
+This project builds an end-to-end data analytics pipeline that processes retail sales data from a SQL database, performs customer segmentation using Python, and visualizes insights through dashboards.
+Technologies Used:
+•	SQL Server for database design and data engineering
+•	Python (Pandas, NumPy) for data processing and analytics
+•	RFM model for customer segmentation
+•	Market Basket Analysis for product association
+•	Tableau / Power BI for visualization
+•	Windows Task Scheduler for automation
+Project Workflow:
+1.	Data Warehouse Creation
+o	Retail sales data structured using a Star Schema
+o	Fact and dimension tables created in SQL
+2.	Data Processing
+o	Python extracts sales data from SQL Server
+o	Data cleaned and transformed
+3.	RFM Analysis
+o	Recency, Frequency, and Monetary values calculated
+o	Customers segmented into groups such as Champions, Loyal, At Risk
+4.	Market Basket Analysis
+o	Apriori algorithm identifies products frequently purchased together
+5.	Visualization
+o	Dashboards created to visualize revenue trends and customer segments
+6.	Automation
+o	Python scripts scheduled using Windows Task Scheduler
+o	Weekly automated updates of analytics results
+Project Outcome:
+The project delivers a customer intelligence system that enables businesses to identify high-value customers, predict churn risk, and optimize marketing strategies through data-driven insights.

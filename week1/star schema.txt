@@ -1,0 +1,59 @@
+Star Schema Design (Project-Specific)
+
+The raw retail dataset contains transactional sales data.
+To support analytics and reporting, the data is modeled using a Star Schema with:
+
+1 Fact table: Fact_Sales
+
+4 Dimension tables:
+
+Dim_Customer
+
+Dim_Product
+
+Dim_Date
+
+->Table Structures:-
+
+
+>Fact_Sales (Central Table):
+
+Column Name	Key Type	Description
+
+Sales_Key	PK	          Surrogate key
+Customer_Key	FK	          References Dim_Customer
+Product_Key	FK	          References Dim_Product
+Date_Key	FK	          References Dim_Date
+TXN_ID	        —	          Transaction ID
+PROD_QTY	—	          Quantity sold
+TOT_SALES	—	          Total sales amount
+UNIT_PRICE	—	          Price per unit
+
+
+>Dim_Customer:
+
+Column Name	Key Type	Description
+
+Customer_Key	PK	          Surrogate key
+LYLTY_CARD_NBR	—	          Loyalty card number
+
+
+>Dim_Product:
+
+Column Name	Key Type	Description
+
+Product_Key	PK	          Surrogate key
+PROD_NBR	—	          Product number
+PROD_NAME	—	          Product name
+
+
+
+>Dim_Date:
+
+Column Name	Key Type	Description
+
+Date_Key	PK	         YYYYMMDD format
+Full_Date	—	         Actual date
+Day	        —	         Day of month
+Month	        —	         Month
+Year     	—	         Year

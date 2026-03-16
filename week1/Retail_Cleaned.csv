@@ -1,0 +1,193 @@
+DATE,STORE_NBR,LYLTY_CARD_NBR,TXN_ID,PROD_NBR,PROD_NAME,PROD_QTY,TOT_SALES,UNIT_PRICE,revenue
+17-10-2018,1,1000,1,5,Natural Chip        Compny SeaSalt175g,2,6.0,3.0,6.0
+14-05-2019,1,1307,348,66,CCs Nacho Cheese    175g,3,6.3,2.1,6.300000000000001
+20-05-2019,1,1343,383,61,Smiths Crinkle Cut  Chips Chicken 170g,2,2.9,1.45,2.9
+17-08-2018,2,2373,974,69,Smiths Chip Thinly  S/Cream&Onion 175g,5,15.0,3.0,15.0
+18-08-2018,2,2426,1038,108,Kettle Tortilla ChpsHny&Jlpno Chili 150g,3,13.8,4.6,13.799999999999999
+19-05-2019,4,4074,2982,57,Old El Paso Salsa   Dip Tomato Mild 300g,1,5.1,5.1,5.1
+16-05-2019,4,4149,3333,16,Smiths Crinkle Chips Salt & Vinegar 330g,1,5.7,5.7,5.7
+16-05-2019,4,4196,3539,24,Grain Waves         Sweet Chilli 210g,1,3.6,3.6,3.6
+20-08-2018,5,5026,4525,42,Doritos Corn Chip Mexican Jalapeno 150g,1,3.9,3.9,3.9
+18-08-2018,7,7150,6900,52,Grain Waves Sour    Cream&Chives 210G,2,7.2,3.6,7.2
+17-05-2019,7,7215,7176,16,Smiths Crinkle Chips Salt & Vinegar 330g,1,5.7,5.7,5.7
+20-08-2018,8,8294,8221,114,Kettle Sensations   Siracha Lime 150g,5,23.0,4.6,23.0
+18-05-2019,9,9208,8634,15,Twisties Cheese     270g,2,9.2,4.6,9.2
+17-08-2018,13,13213,12447,92,WW Crinkle Cut      Chicken 175g,1,1.7,1.7,1.7
+15-05-2019,19,19272,16686,44,Thins Chips Light&  Tangy 175g,1,3.3,3.3,3.3
+19-05-2019,20,20164,17136,54,CCs Original 175g,1,2.1,2.1,2.1
+18-08-2018,20,20418,17413,94,Burger Rings 220g,4,9.2,2.3,9.2
+14-08-2018,22,22411,18646,98,NCC Sour Cream &    Garden Chives 175g,1,3.0,3.0,3.0
+17-08-2018,22,22456,18696,93,Doritos Corn Chip Southern Chicken 150g,1,3.9,3.9,3.9
+16-05-2019,23,23067,19162,56,Cheezels Cheese Box 125g,1,2.1,2.1,2.1
+19-05-2019,25,25105,21815,7,Smiths Crinkle      Original 330g,1,5.7,5.7,5.7
+16-08-2018,33,33081,29949,98,NCC Sour Cream &    Garden Chives 175g,1,3.0,3.0,3.0
+16-08-2018,36,36012,32077,31,Infzns Crn Crnchers Tangy Gcamole 110g,1,3.8,3.8,3.8
+19-08-2018,36,36302,33188,32,Kettle Sea Salt     And Vinegar 175g,1,5.4,5.4,5.4
+15-08-2018,38,38142,34181,108,Kettle Tortilla ChpsHny&Jlpno Chili 150g,2,9.2,4.6,9.2
+15-05-2019,39,39144,35506,57,Old El Paso Salsa   Dip Tomato Mild 300g,1,5.1,5.1,5.1
+19-08-2018,39,39167,35638,111,Smiths Chip Thinly  Cut Original 175g,2,6.0,3.0,6.0
+15-05-2019,41,41423,38393,46,Kettle Original 175g,1,5.4,5.4,5.4
+15-08-2018,41,41486,38472,13,Red Rock Deli Thai  Chilli&Lime 150g,1,2.7,2.7,2.7
+20-05-2019,43,43110,39342,31,Infzns Crn Crnchers Tangy Gcamole 110g,1,3.8,3.8,3.8
+16-05-2019,43,43147,39608,99,Pringles Sthrn FriedChicken 134g,1,3.7,3.7,3.7
+15-05-2019,43,43227,40186,26,Pringles Sweet&Spcy BBQ 134g,4,14.8,3.7,14.8
+20-05-2019,45,45127,41122,64,Red Rock Deli SR    Salsa & Mzzrlla 150g,2,5.4,2.7,5.4
+18-05-2019,45,45220,41651,22,Thins Chips         Originl saltd 175g,1,3.3,3.3,3.3
+16-08-2018,51,51100,46802,48,Red Rock Deli Sp    Salt & Truffle 150G,1,2.7,2.7,2.7
+19-08-2018,51,51100,46803,37,Smiths Thinly       Swt Chli&S/Cream175G,1,3.0,3.0,3.0
+18-08-2018,51,51113,46828,36,Kettle Chilli 175g,1,5.4,5.4,5.4
+17-08-2018,54,54226,48173,51,Doritos Mexicana    170g,1,4.4,4.4,4.4
+18-08-2018,54,54305,48301,44,Thins Chips Light&  Tangy 175g,2,6.6,3.3,6.6
+18-08-2018,55,55072,48878,107,Smiths Crinkle Cut  French OnionDip 150g,1,2.6,2.6,2.6
+14-05-2019,55,55072,48883,106,Natural ChipCo      Hony Soy Chckn175g,1,3.0,3.0,3.0
+20-05-2019,55,55073,48887,4,Dorito Corn Chp     Supreme 380g,1,3.25,3.25,3.25
+20-05-2019,55,55073,48887,113,Twisties Chicken270g,1,4.6,4.6,4.6
+16-05-2019,55,55202,49690,45,Smiths Thinly Cut   Roast Chicken 175g,1,3.0,3.0,3.0
+18-08-2018,56,56013,50090,39,Smiths Crinkle Cut  Tomato Salsa 150g,1,2.6,2.6,2.6
+16-05-2019,58,58324,54252,102,Kettle Mozzarella   Basil & Pesto 175g,1,5.4,5.4,5.4
+16-05-2019,59,59344,56007,31,Infzns Crn Crnchers Tangy Gcamole 110g,1,3.8,3.8,3.8
+16-08-2018,60,60038,56304,104,Infuzions Thai SweetChili PotatoMix 110g,1,3.8,3.8,3.8
+15-05-2019,60,60162,56825,7,Smiths Crinkle      Original 330g,1,5.7,5.7,5.7
+14-05-2019,62,62177,58848,3,Kettle Sensations   Camembert & Fig 150g,1,4.6,4.6,4.6
+20-05-2019,63,63201,60709,82,Smith Crinkle Cut   Mac N Cheese 150g,1,2.6,2.6,2.6
+20-08-2018,67,67053,64137,88,Kettle Honey Soy    Chicken 175g,1,5.4,5.4,5.4
+20-05-2019,71,71122,69717,40,Thins Chips Seasonedchicken 175g,1,3.3,3.3,3.3
+19-05-2019,71,71212,70337,73,Smiths Crinkle Cut  Salt & Vinegar 170g,2,5.8,2.9,5.8
+17-08-2018,72,72094,70995,7,Smiths Crinkle      Original 330g,1,5.7,5.7,5.7
+16-05-2019,72,72335,72083,87,Infuzions BBQ Rib   Prawn Crackers 110g,1,3.8,3.8,3.8
+16-05-2019,74,74336,73182,84,GrnWves Plus Btroot & Chilli Jam 180g,5,15.5,3.1,15.5
+14-05-2019,75,75091,73751,42,Doritos Corn Chip Mexican Jalapeno 150g,2,7.8,3.9,7.8
+19-08-2018,75,75186,74168,108,Kettle Tortilla ChpsHny&Jlpno Chili 150g,2,9.2,4.6,9.2
+14-08-2018,75,75309,74676,70,Tyrrells Crisps     Lightly Salted 165g,1,4.2,4.2,4.2
+20-08-2018,80,80182,78978,32,Kettle Sea Salt     And Vinegar 175g,1,5.4,5.4,5.4
+20-05-2019,81,81357,81315,89,Kettle Sweet Chilli And Sour Cream 175g,1,5.4,5.4,5.4
+14-05-2019,82,82114,81571,99,Pringles Sthrn FriedChicken 134g,2,7.4,3.7,7.4
+15-05-2019,82,82480,82047,101,Doritos Salsa       Medium 300g,1,2.6,2.6,2.6
+17-08-2018,83,83008,82090,104,Infuzions Thai SweetChili PotatoMix 110g,2,7.6,3.8,7.6
+20-05-2019,83,83008,82099,63,Kettle 135g Swt Pot Sea Salt,2,8.4,4.2,8.4
+14-05-2019,83,83062,82438,25,Pringles SourCream  Onion 134g,2,7.4,3.7,7.4
+16-08-2018,83,83186,83162,4,Dorito Corn Chp     Supreme 380g,2,6.5,3.25,6.5
+17-05-2019,84,84096,83673,47,Doritos Corn Chips  Original 170g,1,4.4,4.4,4.4
+20-05-2019,88,88320,87811,113,Twisties Chicken270g,2,9.2,4.6,9.2
+16-05-2019,94,94077,92932,71,Twisties Cheese     Burger 250g,1,4.3,4.3,4.3
+15-08-2018,94,94233,93956,65,Old El Paso Salsa   Dip Chnky Tom Ht300g,1,5.1,5.1,5.1
+19-08-2018,96,96203,96025,7,Smiths Crinkle      Original 330g,5,28.5,5.7,28.5
+15-05-2019,97,97033,96478,33,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,1,3.8,3.8,3.8
+16-08-2018,97,97159,97271,35,Woolworths Mild     Salsa 300g,5,7.5,1.5,7.5
+18-08-2018,101,101170,101017,12,Natural Chip Co     Tmato Hrb&Spce 175g,1,3.0,3.0,3.0
+17-08-2018,102,102115,102209,36,Kettle Chilli 175g,1,5.4,5.4,5.4
+17-08-2018,104,104187,104862,71,Twisties Cheese     Burger 250g,1,4.3,4.3,4.3
+14-08-2018,106,106050,107052,42,Doritos Corn Chip Mexican Jalapeno 150g,1,3.9,3.9,3.9
+16-08-2018,106,106147,107633,89,Kettle Sweet Chilli And Sour Cream 175g,1,5.4,5.4,5.4
+17-05-2019,109,109028,110346,8,Smiths Crinkle Cut  Chips Original 170g,1,2.9,2.9,2.9
+20-05-2019,109,109028,110347,75,Cobs Popd Sea Salt  Chips 110g,2,7.6,3.8,7.6
+14-05-2019,110,110013,111797,100,Smiths Crinkle Cut  Chips Chs&Onion170g,1,2.9,2.9,2.9
+15-05-2019,111,111487,113669,107,Smiths Crinkle Cut  French OnionDip 150g,1,2.6,2.6,2.6
+18-08-2018,112,112046,113969,89,Kettle Sweet Chilli And Sour Cream 175g,1,5.4,5.4,5.4
+18-05-2019,114,114185,118043,24,Grain Waves         Sweet Chilli 210g,1,3.6,3.6,3.6
+19-05-2019,115,115381,118981,29,French Fries Potato Chips 175g,1,3.0,3.0,3.0
+15-08-2018,116,116184,120270,59,Old El Paso Salsa   Dip Tomato Med 300g,1,5.1,5.1,5.1
+20-08-2018,118,118007,120727,30,Doritos Corn Chips  Cheese Supreme 170g,1,4.4,4.4,4.4
+16-05-2019,119,119051,122366,81,Pringles Original   Crisps 134g,1,3.7,3.7,3.7
+19-05-2019,119,119057,122403,36,Kettle Chilli 175g,1,5.4,5.4,5.4
+19-05-2019,119,119282,123246,46,Kettle Original 175g,1,5.4,5.4,5.4
+18-05-2019,120,120226,123743,67,RRD Chilli&         Coconut 150g,1,2.7,2.7,2.7
+18-08-2018,122,122113,125310,42,Doritos Corn Chip Mexican Jalapeno 150g,1,3.9,3.9,3.9
+16-05-2019,122,122185,125736,110,WW Original Corn    Chips 200g,2,3.8,1.9,3.8
+15-05-2019,125,125251,129302,36,Kettle Chilli 175g,1,5.4,5.4,5.4
+14-08-2018,128,128148,131503,51,Doritos Mexicana    170g,1,4.4,4.4,4.4
+16-08-2018,128,128231,132121,28,Thins Potato Chips  Hot & Spicy 175g,1,3.3,3.3,3.3
+18-08-2018,128,128231,132122,33,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,1,3.8,3.8,3.8
+15-05-2019,129,129134,133032,92,WW Crinkle Cut      Chicken 175g,2,3.4,1.7,3.4
+20-05-2019,130,130108,134125,2,Cobs Popd Sour Crm  &Chives Chips 110g,5,19.0,3.8,19.0
+14-05-2019,130,130356,135147,14,Smiths Crnkle Chip  Orgnl Big Bag 380g,2,11.8,5.9,11.8
+15-05-2019,133,133250,137666,30,Doritos Corn Chips  Cheese Supreme 170g,4,17.6,4.4,17.6
+16-05-2019,149,149225,148901,77,Doritos Corn Chips  Nacho Cheese 170g,1,4.4,4.4,4.4
+20-08-2018,149,149317,149044,15,Twisties Cheese     270g,1,4.6,4.6,4.6
+15-08-2018,151,151325,150030,17,Kettle Sensations   BBQ&Maple 150g,1,4.6,4.6,4.6
+19-05-2019,151,151427,150128,46,Kettle Original 175g,1,5.4,5.4,5.4
+17-08-2018,152,152042,150473,69,Smiths Chip Thinly  S/Cream&Onion 175g,3,9.0,3.0,9.0
+16-05-2019,152,152117,150988,33,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,1,3.8,3.8,3.8
+20-05-2019,153,153106,152359,30,Doritos Corn Chips  Cheese Supreme 170g,3,13.2,4.4,13.200000000000001
+15-08-2018,153,153220,152829,113,Twisties Chicken270g,2,9.2,4.6,9.2
+17-05-2019,156,156236,158227,83,WW D/Style Chip     Sea Salt 200g,1,1.9,1.9,1.9
+18-05-2019,156,156236,158228,110,WW Original Corn    Chips 200g,2,3.8,1.9,3.8
+17-08-2018,157,157123,159188,68,Pringles Chicken    Salt Crips 134g,1,3.7,3.7,3.7
+16-08-2018,157,157185,159562,59,Old El Paso Salsa   Dip Tomato Med 300g,2,10.2,5.1,10.2
+19-08-2018,160,160136,160968,82,Smith Crinkle Cut   Mac N Cheese 150g,5,13.0,2.6,13.0
+15-08-2018,160,160153,161091,70,Tyrrells Crisps     Lightly Salted 165g,1,4.2,4.2,4.2
+16-05-2019,161,161280,161813,45,Smiths Thinly Cut   Roast Chicken 175g,1,3.0,3.0,3.0
+19-05-2019,164,164183,164919,67,RRD Chilli&         Coconut 150g,1,2.7,2.7,2.7
+15-08-2018,166,166235,168185,44,Thins Chips Light&  Tangy 175g,1,3.3,3.3,3.3
+15-08-2018,166,166251,168260,104,Infuzions Thai SweetChili PotatoMix 110g,1,3.8,3.8,3.8
+20-05-2019,166,166261,168302,42,Doritos Corn Chip Mexican Jalapeno 150g,2,7.8,3.9,7.8
+18-05-2019,167,167405,169222,96,WW Original Stacked Chips 160g,2,3.8,1.9,3.8
+17-05-2019,168,168213,170687,93,Doritos Corn Chip Southern Chicken 150g,2,7.8,3.9,7.8
+17-05-2019,168,168219,170719,33,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,4,15.2,3.8,15.2
+20-08-2018,169,169267,171363,61,Smiths Crinkle Cut  Chips Chicken 170g,2,5.8,2.9,5.8
+19-08-2018,172,172006,172766,32,Kettle Sea Salt     And Vinegar 175g,1,5.4,5.4,5.4
+19-08-2018,172,172068,173162,79,Smiths Chip Thinly  CutSalt/Vinegr175g,1,3.0,3.0,3.0
+20-05-2019,172,172068,173166,23,Cheezels Cheese 330g,2,11.4,5.7,11.4
+15-08-2018,173,173154,174550,108,Kettle Tortilla ChpsHny&Jlpno Chili 150g,2,9.2,4.6,9.2
+18-08-2018,173,173154,174551,15,Twisties Cheese     270g,1,4.6,4.6,4.6
+19-08-2018,175,175306,176634,59,Old El Paso Salsa   Dip Tomato Med 300g,1,5.1,5.1,5.1
+14-08-2018,178,178036,177775,50,Tostitos Lightly    Salted 175g,1,4.4,4.4,4.4
+18-05-2019,178,178093,178134,114,Kettle Sensations   Siracha Lime 150g,2,9.2,4.6,9.2
+17-08-2018,181,181265,183665,44,Thins Chips Light&  Tangy 175g,2,6.6,3.3,6.6
+16-08-2018,184,184229,187762,42,Doritos Corn Chip Mexican Jalapeno 150g,1,3.9,3.9,3.9
+14-05-2019,186,186188,188585,78,Thins Chips Salt &  Vinegar 175g,1,3.3,3.3,3.3
+20-08-2018,186,186401,188768,1,Smiths Crinkle Cut  Chips Barbecue 170g,5,14.5,2.9,14.5
+17-05-2019,187,187144,189046,32,Kettle Sea Salt     And Vinegar 175g,1,5.4,5.4,5.4
+17-08-2018,191,191094,192335,86,Cheetos Puffs 165g,2,5.6,2.8,5.6
+16-08-2018,191,191200,192940,53,RRD Sweet Chilli &  Sour Cream 165g,1,3.0,3.0,3.0
+16-05-2019,191,191200,192945,36,Kettle Chilli 175g,1,5.4,5.4,5.4
+19-05-2019,194,194066,193560,36,Kettle Chilli 175g,2,10.8,5.4,10.8
+20-08-2018,194,194161,193938,93,Doritos Corn Chip Southern Chicken 150g,1,3.9,3.9,3.9
+14-08-2018,196,196121,196172,100,Smiths Crinkle Cut  Chips Chs&Onion170g,2,5.8,2.9,5.8
+15-05-2019,197,197172,197097,72,WW Crinkle Cut      Original 175g,1,1.7,1.7,1.7
+18-08-2018,200,200162,199522,114,Kettle Sensations   Siracha Lime 150g,1,4.6,4.6,4.6
+16-08-2018,205,205151,204218,74,Tostitos Splash Of  Lime 175g,1,4.4,4.4,4.4
+15-05-2019,205,205151,204219,82,Smith Crinkle Cut   Mac N Cheese 150g,3,7.8,2.6,7.800000000000001
+17-05-2019,207,207007,204633,107,Smiths Crinkle Cut  French OnionDip 150g,4,10.4,2.6,10.4
+19-05-2019,207,207091,205119,44,Thins Chips Light&  Tangy 175g,1,3.3,3.3,3.3
+18-08-2018,207,207182,205682,7,Smiths Crinkle      Original 330g,2,11.4,5.7,11.4
+17-05-2019,208,208081,206568,61,Smiths Crinkle Cut  Chips Chicken 170g,1,2.9,2.9,2.9
+17-05-2019,208,208139,206906,63,Kettle 135g Swt Pot Sea Salt,1,4.2,4.2,4.2
+20-05-2019,209,209180,208512,54,CCs Original 175g,1,2.1,2.1,2.1
+19-05-2019,212,212194,211539,25,Pringles SourCream  Onion 134g,1,3.7,3.7,3.7
+18-05-2019,212,212201,211570,81,Pringles Original   Crisps 134g,1,3.7,3.7,3.7
+14-05-2019,212,212203,211586,4,Dorito Corn Chp     Supreme 380g,1,3.25,3.25,3.25
+18-08-2018,214,214277,213883,76,Woolworths Medium   Salsa 300g,1,1.5,1.5,1.5
+17-08-2018,215,215129,214343,17,Kettle Sensations   BBQ&Maple 150g,1,4.6,4.6,4.6
+16-05-2019,216,216104,215132,9,Kettle Tortilla ChpsBtroot&Ricotta 150g,1,4.6,4.6,4.6
+17-08-2018,217,217168,217061,113,Twisties Chicken270g,1,4.6,4.6,4.6
+18-05-2019,219,219065,218396,15,Twisties Cheese     270g,1,4.6,4.6,4.6
+17-08-2018,222,222079,221942,71,Twisties Cheese     Burger 250g,1,4.3,4.3,4.3
+19-08-2018,222,222209,222689,91,CCs Tasty Cheese    175g,1,2.1,2.1,2.1
+17-05-2019,222,222209,222693,40,Thins Chips Seasonedchicken 175g,5,16.5,3.3,16.5
+19-08-2018,223,223062,223280,105,Woolworths Cheese   Rings 190g,1,1.8,1.8,1.8
+17-08-2018,223,223130,223702,82,Smith Crinkle Cut   Mac N Cheese 150g,1,2.6,2.6,2.6
+14-08-2018,225,225242,226134,22,Thins Chips         Originl saltd 175g,1,3.3,3.3,3.3
+15-05-2019,226,226133,226926,108,Kettle Tortilla ChpsHny&Jlpno Chili 150g,1,4.6,4.6,4.6
+17-08-2018,227,227220,229580,25,Pringles SourCream  Onion 134g,1,3.7,3.7,3.7
+14-08-2018,235,235158,238107,90,Tostitos Smoked     Chipotle 175g,1,4.4,4.4,4.4
+16-08-2018,236,236216,239853,36,Kettle Chilli 175g,2,10.8,5.4,10.8
+19-05-2019,236,236247,240056,92,WW Crinkle Cut      Chicken 175g,1,1.7,1.7,1.7
+20-08-2018,237,237227,241132,63,Kettle 135g Swt Pot Sea Salt,2,8.4,4.2,8.4
+16-08-2018,237,237293,241451,31,Infzns Crn Crnchers Tangy Gcamole 110g,1,3.8,3.8,3.8
+18-08-2018,241,241222,245795,82,Smith Crinkle Cut   Mac N Cheese 150g,2,5.2,2.6,5.2
+17-05-2019,243,243070,246706,63,Kettle 135g Swt Pot Sea Salt,1,4.2,4.2,4.2
+20-05-2019,243,243342,247082,65,Old El Paso Salsa   Dip Chnky Tom Ht300g,1,5.1,5.1,5.1
+18-05-2019,246,246078,248026,109,Pringles Barbeque   134g,1,3.7,3.7,3.7
+15-05-2019,246,246266,248373,31,Infzns Crn Crnchers Tangy Gcamole 110g,1,3.8,3.8,3.8
+20-05-2019,247,247223,250007,24,Grain Waves         Sweet Chilli 210g,1,3.6,3.6,3.6
+17-08-2018,248,248409,250717,27,WW Supreme Cheese   Corn Chips 200g,3,5.7,1.9,5.699999999999999
+17-05-2019,250,250314,252753,68,Pringles Chicken    Salt Crips 134g,1,3.7,3.7,3.7
+19-05-2019,253,253032,253575,47,Doritos Corn Chips  Original 170g,1,4.4,4.4,4.4
+19-05-2019,253,253295,253972,47,Doritos Corn Chips  Original 170g,3,13.2,4.4,13.200000000000001
+18-05-2019,255,255206,254774,81,Pringles Original   Crisps 134g,1,3.7,3.7,3.7
+19-08-2018,256,256041,255158,94,Burger Rings 220g,2,4.6,2.3,4.6
+19-05-2019,257,257121,256483,14,Smiths Crnkle Chip  Orgnl Big Bag 380g,1,5.9,5.9,5.9
+19-08-2018,257,257168,256776,64,Red Rock Deli SR    Salsa & Mzzrlla 150g,2,5.4,2.7,5.4
+18-05-2019,257,257241,257214,39,Smiths Crinkle Cut  Tomato Salsa 150g,1,2.6,2.6,2.6
+17-08-2018,257,257258,257308,114,Kettle Sensations   Siracha Lime 150g,4,18.4,4.6,18.4

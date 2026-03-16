@@ -1,0 +1,47 @@
+CREATE DATABASE consumer360
+
+use consumer360
+
+select * from retail
+
+SELECT COUNT(*) FROM RETAIL
+
+SELECT TOP 10 * FROM RETAIL
+
+SELECT COUNT(*) 
+FROM RETAIL
+WHERE LYLTY_CARD_NBR IS NULL
+
+SELECT COUNT(*) 
+FROM RETAIL
+WHERE PROD_QTY <= 0
+
+SELECT COUNT(*) 
+FROM RETAIL
+WHERE TOT_SALES <= 0
+
+SELECT TXN_ID, PROD_NBR, COUNT(*)
+FROM RETAIL
+GROUP BY TXN_ID, PROD_NBR
+HAVING COUNT(*) > 1;
+
+SELECT
+    TXN_ID AS order_id,
+    LYLTY_CARD_NBR AS customer_id,
+    PROD_NBR AS product_id,
+    PROD_NAME AS product_name,
+    [DATE] AS sale_date,
+    PROD_QTY AS quantity,
+    UNIT_PRICE AS unit_price,
+    (PROD_QTY * UNIT_PRICE) AS revenue,
+    STORE_NBR AS store_id
+INTO Retail_cleaned
+FROM retail
+WHERE LYLTY_CARD_NBR IS NOT NULL
+  AND PROD_QTY > 0
+  AND UNIT_PRICE > 0
+  AND TOT_SALES > 0;
+
+  SELECT COUNT(*) 
+FROM Retail_cleaned
+WHERE revenue <= 0;
