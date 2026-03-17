@@ -13,7 +13,6 @@ IF OBJECT_ID('Dim_Product', 'U') IS NOT NULL
 
 IF OBJECT_ID('Dim_Date', 'U') IS NOT NULL
     DROP TABLE Dim_Date;
-
 GO
 
 /* =========================
@@ -29,7 +28,6 @@ CREATE TABLE Dim_Product (
     product_id_key INT IDENTITY(1,1) PRIMARY KEY,
     product_id INT
 );
-
 GO
 
 /* =========================
@@ -43,7 +41,6 @@ FROM online_sales_orders;
 INSERT INTO Dim_Product (product_id)
 SELECT DISTINCT product_id
 FROM online_sales_orders;
-
 GO
 
 /* =========================
@@ -59,7 +56,6 @@ CREATE TABLE Fact_Sales (
     FOREIGN KEY (date_id) REFERENCES Dim_Date(date_id),
     FOREIGN KEY (product_id_key) REFERENCES Dim_Product(product_id_key)
 );
-
 GO
 
 /* =========================
@@ -76,7 +72,6 @@ JOIN Dim_Date d
     ON CAST(o.order_date AS DATE) = d.order_date
 JOIN Dim_Product p 
     ON o.product_id = p.product_id;
-
 GO
 
 /* =========================
@@ -85,7 +80,6 @@ GO
 
 CREATE INDEX idx_fact_date ON Fact_Sales(date_id);
 CREATE INDEX idx_fact_product ON Fact_Sales(product_id_key);
-
 GO
 
 /* =========================
