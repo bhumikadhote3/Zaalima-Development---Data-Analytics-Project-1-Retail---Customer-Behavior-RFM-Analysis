@@ -1,5 +1,4 @@
 CREATE DATABASE consumer360
-
 use consumer360
 
 select * from retail
@@ -42,6 +41,6 @@ WHERE LYLTY_CARD_NBR IS NOT NULL
   AND UNIT_PRICE > 0
   AND TOT_SALES > 0;
 
-  SELECT COUNT(*) 
+SELECT COUNT(*) 
 FROM Retail_cleaned
 WHERE revenue <= 0;
